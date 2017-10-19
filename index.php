@@ -20,7 +20,7 @@ date_default_timezone_set('America/Sao_Paulo');
 
         <meta name="author" content="Leonardo Henrique P. Teixeira">
 
-        <title>Leonardo Teixeira - Perfil</title>
+        <title>Leonardo Henrique P. Teixeira - Perfil</title>
 
         <link rel="shortcut icon" href="https://d30y9cdsu7xlg0.cloudfront.net/png/88288-200.png">
         <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -102,7 +102,7 @@ date_default_timezone_set('America/Sao_Paulo');
                             <div class="row">
                                 <div class="col s12">
                                     <div class="home-inner">
-                                        <h1 class="home-title"><span>Leonardo</span> Teixeira</h1>
+                                        <h1 class="home-title">Leonardo <span>Teixeira</span></h1>
                                         <p><span style="text-shadow: 0.1em 0.1em #000;">Prazer em conhecê-lo, saiba um pouco mais sobre mim!</span></p>
                                         <a class="hire-me-btn btn waves-effect waves-light btn-large" href="#footer">Vamos trabalhar juntos<i class="mdi-content-send left"></i>                     
                                         </a>
