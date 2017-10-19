@@ -1,4 +1,4 @@
 <?php
 
 $path = '/home/admin/web/lteixeira.tk/public_html/';
-shell_exec('cd ' . $path . ' && sudo git reset --hard HEAD && sudo git pull origin master 2>&1');
+shell_exec('cd ' . $path . ' && sudo git pull origin master 2>&1');
