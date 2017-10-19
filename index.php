@@ -143,9 +143,9 @@ date_default_timezone_set('America/Sao_Paulo');
                                                         <li><span>Projeto : </span><a href="https://www.banhosoft.com.br" target="_blank">https://www.banhosoft.com.br</a></li>
                                                     </ul>
                                                 </div>
-                                                <div class="resume-download col s12 m12 l6">
+<!--                                                <div class="resume-download col s12 m12 l6">
                                                     <a  href="curriculo.pdf" target="_blank" class="waves-effect waves-light btn-large resume-btn"><i class="mdi-content-archive left"></i> Download Currículo</a>
-                                                </div>
+                                                </div>-->
                                             </div>
                                         </div>
                                     </div>
