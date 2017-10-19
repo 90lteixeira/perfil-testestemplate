@@ -209,7 +209,7 @@ date_default_timezone_set('America/Sao_Paulo');
                                                 <span class="card-title activator reveal-title">Desenvolvedor</span>
                                             </div>
                                             <div class="card-reveal">
-                                                <span class="card-title reveal-title">Desenvolvedor<i class="material-icons right">close</i></span>
+                                                <span class="card-title reveal-title">Desenvolvedor PHP<i class="material-icons right">close</i></span>
                                                 <p>Em construção...!</p>
                                             </div>
                                         </div>
