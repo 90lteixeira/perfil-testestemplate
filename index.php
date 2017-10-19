@@ -210,7 +210,7 @@ date_default_timezone_set('America/Sao_Paulo');
                                             </div>
                                             <div class="card-reveal">
                                                 <span class="card-title reveal-title">Desenvolvedor<i class="material-icons right">close</i></span>
-                                                <p>Em construção...</p>
+                                                <p>Em construção...!</p>
                                             </div>
                                         </div>
                                     </div>
