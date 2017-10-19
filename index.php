@@ -167,7 +167,7 @@ date_default_timezone_set('America/Sao_Paulo');
                                     <span>CSS, CSS3</span> - 
                                     <span>Bootstrap</span> - 
                                     <span>jQuery</span> - 
-                                    <span>PHP</span>  
+                                    <span>PHP teste</span>  
 
                                     <h4>Nível Intermediário </h4>
                                     <span>MySQL</span> - 
