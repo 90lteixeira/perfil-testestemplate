@@ -136,7 +136,7 @@ date_default_timezone_set('America/Sao_Paulo');
                                                     <ul>
                                                         <li><span>Nome : </span>Leonardo Henrique P. Teixeira </li>
                                                         <li><span>Idade : </span>26 Anos</li>
-                                                        <li><span>Celular : </span>55 (19) 9990-28436</li>
+                                                        <li><span>Celular : </span> <small>(entrar em contato por e-mail para essa informação)</small></li>
                                                         <li><span>Endereço : </span>Campinas/SP, Brasil</li>
                                                         <li><span>Email : </span><a href="mailto:leohpt@hotmail.com">leohpt@hotmail.com</a></li>
                                                         <li><span>Linkedin : </span><a href="https://www.linkedin.com/in/leohpt" target="_blank">https://www.linkedin.com/in/leohpt</a></li>
