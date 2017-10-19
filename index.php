@@ -206,11 +206,11 @@ date_default_timezone_set('America/Sao_Paulo');
                                                 <h3 class="activator reveal-title" style=" text-align: center; min-height: 100px;">Superlógica</h3>
                                             </div>
                                             <div class="card-content">
-                                                <span class="card-title activator reveal-title">Desenvolvedor</span>
+                                                <span class="card-title activator reveal-title">Desenvolvedor PHP</span>
                                             </div>
                                             <div class="card-reveal">
                                                 <span class="card-title reveal-title">Desenvolvedor PHP<i class="material-icons right">close</i></span>
-                                                <p>Em construção...!</p>
+                                                <p>Em construção!</p>
                                             </div>
                                         </div>
                                     </div>
