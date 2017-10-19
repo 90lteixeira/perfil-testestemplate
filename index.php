@@ -186,8 +186,6 @@ date_default_timezone_set('America/Sao_Paulo');
                                     <span>Ruby on Rails</span> - 
                                     <span>ASP</span> - 
                                     <span>Java</span>
-
-                                    <p>Entre outros..</p>
                                 </div>
                             </div>
                         </div>
