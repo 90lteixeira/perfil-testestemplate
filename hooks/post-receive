@@ -1,2 +1,5 @@
-#!/bin/sh
-GIT_WORK_TREE=/home/admin/web/lteixeira.tk/public_html git checkout -f
+#!/bin/bash
+echo "Content-type: text/plain"
+echo ""
+cd ~/html/admin/web/lteixeira.tk/public_html/
+git pull
