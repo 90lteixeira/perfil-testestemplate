@@ -129,13 +129,13 @@ date_default_timezone_set('America/Sao_Paulo');
                                             <div class="about-inner-right">
                                                 <h3>Sobre mim</h3>
                                                 <p>
-                                                    Moro atualmente em Campinas/SP, tenho 26 anos, desenvolvo e faço manutenções de websites e sistemas desde 2008, quando terminei técnico em informática e me apaixonei pela profissão, formei no final de 2015 na CEUCLAR (presencial), Bacharelado em Sistemas de Informação.
+                                                    Moro atualmente em Campinas/SP, tenho 27 anos, desenvolvo e faço manutenções de websites e sistemas desde 2008, quando terminei técnico em informática e me apaixonei pela profissão, formei no final de 2015 na CEUCLAR (presencial), Bacharelado em Sistemas de Informação.
                                                 </p>
                                                 <div class="personal-information col s12 m12 l6">
                                                     <h3>Informação Pessoal</h3>
                                                     <ul>
                                                         <li><span>Nome : </span>Leonardo Henrique P. Teixeira </li>
-                                                        <li><span>Idade : </span>26 Anos</li>
+                                                        <li><span>Idade : </span>27 Anos</li>
                                                         <li><span>Celular : </span> <small>(entrar em contato por e-mail para essa informação)</small></li>
                                                         <li><span>Endereço : </span>Campinas/SP, Brasil</li>
                                                         <li><span>Email : </span><a href="mailto:leoh.web@gmail.com">leoh.web@gmail.com</a></li>
