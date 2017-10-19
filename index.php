@@ -547,7 +547,7 @@ date_default_timezone_set('America/Sao_Paulo');
                         <div class="container">
                             <div class="row">
                                 <div class="col s12">
-                                    <div class="footer-inner">teste
+                                    <div class="footer-inner">
                                         <button class="btn-floating btn-large up-btn"><i class="mdi-navigation-expand-less"></i></button>
                                     </div>
                                 </div>
