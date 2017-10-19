@@ -174,6 +174,7 @@ date_default_timezone_set('America/Sao_Paulo');
                                     <span>PostgreSQL</span> - 
                                     <span>Oracle</span>
                                     <span>Photoshop</span> - 
+									<span>Javascript</span> -
                                     <span>Corel Draw</span> - 
                                     <span>Sony Vegas (Edição de vídeo)</span>  
                                     
