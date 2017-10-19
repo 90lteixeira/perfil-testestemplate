@@ -2,4 +2,4 @@
 echo "Content-type: text/plain"
 echo ""
 cd ~/html/admin/web/lteixeira.tk/public_html/
-git pull
+git pull origin master
