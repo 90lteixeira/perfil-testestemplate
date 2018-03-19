@@ -103,7 +103,7 @@ date_default_timezone_set('America/Sao_Paulo');
                                 <div class="col s12">
                                     <div class="home-inner">
                                         <h1 class="home-title">Leonardo <span>Teixeira</span></h1>
-                                        <p><span style="text-shadow: 0.1em 0.1em #000;">Prazer em conhecê-lo, saiba um pouco mais sobre mim!</span></p>
+                                        <p><span style="text-shadow: 0.1em 0.1em #000;">Saiba um pouco mais sobre mim!</span></p>
                                         <a class="hire-me-btn btn waves-effect waves-light btn-large" href="#footer">Vamos trabalhar juntos<i class="mdi-content-send left"></i>                     
                                         </a>
                                     </div>
